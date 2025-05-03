@@ -1,1 +1,1 @@
-# sitaifood
+rm README
